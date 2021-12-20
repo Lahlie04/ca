@@ -23,6 +23,12 @@
       "day": "Test",
       "reminder": true,
       "id": 4
+    },
+    {
+      "text": "talk to Vero",
+      "day": "December 20th at 13:30",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
